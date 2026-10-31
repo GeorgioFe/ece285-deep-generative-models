@@ -1,0 +1,25 @@
+# Virtual environments
+.venv311/
+venv311/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datasets
+data/
+
+# Training artifacts
+outputs/
+*.pt
+*.pth
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
